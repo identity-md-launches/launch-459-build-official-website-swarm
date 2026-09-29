@@ -1,0 +1,11 @@
+# Explicit 512-byte path budget: artifacts/path-budget.md
+node_modules/
+.vite/
+.cache/
+.npm/
+.pnpm-store/
+.yarn/cache/
+.playwright-mcp/
+coverage/
+*.tsbuildinfo
+/test/scratch/
